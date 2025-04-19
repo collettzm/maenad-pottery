@@ -12,7 +12,7 @@ latitude,Latitude
 longitude,Longitude
 source,Source
 identifier,Source Identifier,,
-link,Catalog Link,
+link,Catalog Link,,true
 citation,Citation
 type,Type,
 format,Format,
