@@ -13,7 +13,7 @@ longitude,Longitude
 source,Source
 identifier,Source Identifier,,
 link,Museum Catalog Link,,true
-citation,Citation
+citation,Citation,true
 type,Type,
 format,Format,
 color,Image Color,
