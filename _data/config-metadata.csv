@@ -7,9 +7,7 @@ creator,Creator,
 date,Date Created,
 description,Description,
 subject,Subjects,true
-location,Location
-latitude,Latitude
-longitude,Longitude
+location,Location,,true
 source,Source
 identifier,Source Identifier,,
 link,Museum Catalog Link,,true
