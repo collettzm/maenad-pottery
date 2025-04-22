@@ -7,7 +7,8 @@ creator,Creator,
 date,Date Created,
 description,Description,
 subject,Subjects,true
-location,Location,,true
+location,Location,,
+location-link,Pleiades,,true
 source,Source
 identifier,Source Identifier,,
 link,Museum Catalog Link,,true
