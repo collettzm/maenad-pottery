@@ -18,10 +18,10 @@ This is a collection of images of pottery depicting maenads, bacchae, or bacchan
 
 The hope is that these images can educate people at any level on the depiction of maenads around the time that Eurpides would have written <i>The Bacchae</i>. The collection may also be considered in the broader context of Greek mythology, featuring depictions of one of the many figures featured in that mythos. While each piece is accompanied by sufficient information for the lay person, including a link to the catalog record from the museum in which the piece is housed, each piece also has at least one scholarly citation to assist those doing research. 
 
-{% raw %}{% include feature/button.html text="Yale University Art Gallery" link="https://artgallery.yale.edu/" color="success" %}{% endraw %}
+{% include feature/button.html text="Yale University Art Gallery" link="https://artgallery.yale.edu/" color="success" %}
 
-{% raw %}{% include feature/button.html text="Metropolitan Museum of Art" link="https://www.metmuseum.org/" color="success" %}{% endraw %}
+{% include feature/button.html text="Metropolitan Museum of Art" link="https://www.metmuseum.org/" color="success" %}
 
-{% raw %}{% include feature/button.html text="Staatliche Museen zu Berlin" link="https://www.smb.museum/en/home/" color="success" %}{% endraw %}
+{% include feature/button.html text="Staatliche Museen zu Berlin" link="https://www.smb.museum/en/home/" color="success" %}
 
-{% raw %}{% include feature/button.html text="J. Paul Getty Museum" link="https://www.getty.edu/" color="success" %}{% endraw %}
+{% include feature/button.html text="J. Paul Getty Museum" link="https://www.getty.edu/" color="success" %}
