@@ -12,11 +12,13 @@ location-link,Pleiades,,true
 source,Source
 identifier,Source Identifier,,
 link,Museum Catalog Link,,true
+beazley-archive,Beazley Archive,,true
 citation,Citation,
 type,Type,
 format,Format,
 color,Image Color,
 image-creator,Image Creator,
+resolution,Image Resolution
 rights,Rights,
 rightsstatement,Rights Statement,,true
 file-size,File Size
