@@ -2,9 +2,9 @@ field,display_name,browse_link,external_link
 title,Title,
 shape,Shape,
 technique,Technique,
-measurements,Measurements,
 creator,Painter,
 date,Date Created,
+measurements,Measurements,
 description,Description,
 subject,Subjects,true
 location,Location,,
